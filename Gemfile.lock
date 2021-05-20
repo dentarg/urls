@@ -70,7 +70,7 @@ GEM
       tilt (~> 2.0)
     temple (0.8.2)
     tilt (2.0.10)
-    twingly-url (6.0.3)
+    twingly-url (6.0.4)
       addressable (~> 2.6)
       public_suffix (>= 3.0.1, < 5.0)
     unf (0.1.4)
